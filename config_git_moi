@@ -1,5 +1,7 @@
 git --version                                                      // Connaitre la version actuellement installé sur l'ordinateur
 
+git update-git-for-windows         ou          git update          // Mettre a jour git  : https://go.lightnode.com/fr/tech/how-to-check-and-update-git-version
+
 git config --global user.name "Darkzveller"
 
 git config --global user.email "jsp@gmail.com"
