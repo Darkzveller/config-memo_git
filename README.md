@@ -46,3 +46,16 @@ et
 # Permettre la création par défaut d'une branch main et non master
 
     git config --global init.defaultBranch main 
+
+
+# Supprimer la configuration Git globale
+
+## Sous linux debian
+        
+    rm ~/.gitconfig
+
+## Sous windows 
+
+- Aller dans C:\Users\<TON_UTILISATEUR>\.gitconfig
+- Supprimer le dossier .gitconfig ou le contenu
+
